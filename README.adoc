@@ -73,7 +73,7 @@ It is effectively limited to adding or removing whitespace and line feeds.
 
 === Checkstyle
 
-To enforce checksyle conventions add the checkstyle plugin and include a dependency on `spring-javaformat-checkstyle`:
+To enforce checkstyle conventions add the checkstyle plugin and include a dependency on `spring-javaformat-checkstyle`:
 
 [source,xml,indent=0,subs="normal"]
 ----
